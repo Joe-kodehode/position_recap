@@ -76,6 +76,7 @@ section:nth-child(even) {
 }
 
 /* Fixed Styling */
+
 #fixed-box {
   position: fixed;
   bottom: 5px;
@@ -84,6 +85,7 @@ section:nth-child(even) {
   border: 3px solid #73ad21;
 }
 
+/* Absolute Styling */
 #absolute-container {
   position: relative;
   height: 500px;
